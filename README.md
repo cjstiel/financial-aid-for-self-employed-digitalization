@@ -32,7 +32,7 @@ The questionnaire includes 51 questions and focuses on the following topics:
 6. sociodemographic characteristics
 7. business-related characteristics
 
-The data is available at https://doi.org/10.5281/zenodo.7091989. Supplementary material including the questionnaire is available at https://portal.fdz-bo.diw.de/study/S0021.
+The data is available at https://doi.org/10.5281/zenodo.7091989. Supplementary material including the questionnaire is available [here](https://doi.org/10.25652/diw_data_S0021.1).
 
 ### Methods
 
